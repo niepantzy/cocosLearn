@@ -1,0 +1,22 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["core","menus","actions","labels","clipping-nodes"],
+
+    "jsList" : [
+        "src/toonblast/resource.js",
+        "src/toonblast/Constant.js",
+        "src/toonblast/Storage.js",
+        "src/toonblast/Candy.js",
+        "src/toonblast/GameUI.js",
+        "src/toonblast/app.js"
+    ]
+}

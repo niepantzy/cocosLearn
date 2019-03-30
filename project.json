@@ -9,14 +9,18 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["core","menus","actions","labels","clipping-nodes"],
+    "modules" : ["core","menus","actions","labels","clipping-nodes","extensions","cocostudio"],
 
     "jsList" : [
-        "src/toonblast/resource.js",
-        "src/toonblast/Constant.js",
-        "src/toonblast/Storage.js",
+        "src/resource.js",
+        "src/Constant.js",
+        "src/Storage.js",
         "src/toonblast/Candy.js",
         "src/toonblast/GameUI.js",
-        "src/toonblast/app.js"
+        "src/toonblast/app.js",
+        "src/learn/LearnScene.js",
+        "src/learn/SpriteSheet.js",
+        "src/learn/Animation.js"
+
     ]
 }

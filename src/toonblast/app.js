@@ -117,7 +117,7 @@ var GameLayer = cc.Layer.extend({
             index ++ ;
         }
 
-        if(joinCandys.length <= 2){
+        if(joinCandys.length <= 1){
             return;
         }
 

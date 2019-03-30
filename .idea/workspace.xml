@@ -2,6 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d78cdb61-7819-45c9-99bc-e91318484a74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/res/DemoPlayer.ExportJson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/DemoPlayer0.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/DemoPlayer0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/DemoPlayer1.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/DemoPlayer1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/grossini.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/grossini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/Animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/LearnScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/SpriteSheet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publish/html5/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/game.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/publish/html5/game.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/HelloWorld.png" beforeDir="false" afterPath="$PROJECT_DIR$/publish/html5/res/HelloWorld.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/Candy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/Constant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/GameUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/Storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/cocos2d-js-v3.13-lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/cocos2d-js-v3.13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/HelloWorld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/SavePets_Bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/SavePets_Icon_Cube1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/SavePets_Icon_Cube2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/SavePets_Icon_Cube3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/SavePets_Icon_Cube4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/SavePets_Icon_Cube5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/SavePets_Icon_Cube6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/res/loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishBack/html5/resource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toonblast/Constant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toonblast/Storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Storage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toonblast/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/toonblast/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toonblast/resource.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resource.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test1.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -44,13 +86,24 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="C++" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="22" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="124" />
+          <entry key="JavaScript" value="3636" />
         </counts>
       </usages-collector>
     </session>
@@ -60,79 +113,85 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="209">
+              <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/src/resource.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+            <state relative-caret-position="228">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn/SpriteSheet.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="144" column="24" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/toonblast/resource.js">
+        <entry file="file://$PROJECT_DIR$/src/learn/Animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="489">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/js_bindings_chipmunk_auto_classes.cpp">
+        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCArmatureAnimation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCArmatureDataManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/CocoStudio.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_studio_auto_api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="1888" selection-start-line="1888" selection-end-line="1888" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/DemoPlayer.ExportJson">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js">
+        <entry file="file://$PROJECT_DIR$/src/learn/LearnScene.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_3d_auto_api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_auto_api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="12" selection-start-line="14" selection-end-line="14" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_experimental_video_auto_api.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_experimental_webView_auto_api.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/script/ccui/jsb_ccui_create_apis.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="456">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -147,24 +206,32 @@
       <find>_checkSuccessOrFail</find>
       <find>moving</find>
       <find>_finishCandyFalls</find>
+      <find>_spriteFrames</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/src/Candy.js" />
         <option value="$PROJECT_DIR$/src/Storage.js" />
         <option value="$PROJECT_DIR$/src/GameUI.js" />
         <option value="$PROJECT_DIR$/src/Constant.js" />
         <option value="$PROJECT_DIR$/src/app.js" />
-        <option value="$PROJECT_DIR$/src/resource.js" />
-        <option value="$PROJECT_DIR$/project.json" />
         <option value="$PROJECT_DIR$/src/toonblast/resource.js" />
+        <option value="$PROJECT_DIR$/src/toonblast/app.js" />
+        <option value="$PROJECT_DIR$/src/learn/LearnSence.js" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js" />
+        <option value="$PROJECT_DIR$/src/learn/SpriteSheet.js" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/src/resource.js" />
+        <option value="$PROJECT_DIR$/src/learn/LearnScene.js" />
+        <option value="$PROJECT_DIR$/src/learn/Animation.js" />
       </list>
     </option>
   </component>
@@ -179,10 +246,11 @@
       <path value="$PROJECT_DIR$/frameworks/cocos2d-x/external/tinydir/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2157" />
-    <option name="width" value="1465" />
-    <option name="height" value="874" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -196,6 +264,83 @@
             <path>
               <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="cocos2d-html5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="cocos2d-html5" type="462c0819:PsiDirectoryNode" />
+              <item name="extensions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="cocos2d-html5" type="462c0819:PsiDirectoryNode" />
+              <item name="extensions" type="462c0819:PsiDirectoryNode" />
+              <item name="cocostudio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="cocos2d-html5" type="462c0819:PsiDirectoryNode" />
+              <item name="extensions" type="462c0819:PsiDirectoryNode" />
+              <item name="cocostudio" type="462c0819:PsiDirectoryNode" />
+              <item name="armature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="cocos2d-html5" type="462c0819:PsiDirectoryNode" />
+              <item name="extensions" type="462c0819:PsiDirectoryNode" />
+              <item name="cocostudio" type="462c0819:PsiDirectoryNode" />
+              <item name="armature" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="cocos2d-html5" type="462c0819:PsiDirectoryNode" />
+              <item name="extensions" type="462c0819:PsiDirectoryNode" />
+              <item name="cocostudio" type="462c0819:PsiDirectoryNode" />
+              <item name="armature" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toonblast" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,11 +356,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\test\cocos\toonblast\src\toonblast" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gittest\cocos\cocosLearn\res" />
       <recent name="E:\test\cocos\toonblast\res" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gittest\cocos\cocosLearn\src" />
+      <recent name="E:\test\cocos\toonblast\src\toonblast" />
       <recent name="E:\test\cocos\toonblast\res" />
     </key>
   </component>
@@ -243,16 +390,18 @@
       <updated>1553770085556</updated>
       <workItem from="1553770086885" duration="27055000" />
       <workItem from="1553912925835" duration="508000" />
+      <workItem from="1553914139595" duration="15224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27563000" />
+    <option name="totallyTimeSpent" value="42787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2157" y="0" width="1465" height="874" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18756586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,29 +472,19 @@
     <entry file="file://$PROJECT_DIR$/.cocos-project.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/Storage.js">
+    <entry file="file://$PROJECT_DIR$/src/Storage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/GameUI.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="41" column="63" selection-start-line="41" selection-start-column="63" selection-end-line="41" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/Constant.js">
+    <entry file="file://$PROJECT_DIR$/src/Constant.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/HelloWorld.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/res/loading.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -353,33 +492,6 @@
           <caret column="724" selection-start-column="305" selection-end-column="724" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/toonblast.plist">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/Candy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/js_bindings_chipmunk_auto_classes.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -417,24 +529,158 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
+    <entry file="file://$PROJECT_DIR$/res/toonblast.plist">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="266">
+          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/js_bindings_chipmunk_auto_classes.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/toonblast.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/script/jsb_pool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toonblast/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2439">
+          <caret line="45" column="56" lean-forward="true" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toonblast/Candy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toonblast/GameUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrameCache.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="351" column="20" selection-start-line="351" selection-start-column="15" selection-end-line="351" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="3451" selection-start-line="3451" selection-end-line="3451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/grossini.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/HelloWorld.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+        <state relative-caret-position="-385">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/resource.js">
+    <entry file="file://$PROJECT_DIR$/src/learn/SpriteSheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="736">
+          <caret line="144" column="24" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/DemoPlayer.ExportJson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/CocoStudio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCArmatureDataManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_studio_auto_api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="1888" selection-start-line="1888" selection-end-line="1888" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/LearnScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCArmatureAnimation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>

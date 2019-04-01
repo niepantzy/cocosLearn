@@ -9,7 +9,7 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["core","menus","actions","labels","clipping-nodes","extensions","cocostudio"],
+    "modules" : ["core","menus","actions","labels","clipping-nodes","extensions","cocostudio","parallax"],
 
     "jsList" : [
         "src/resource.js",
@@ -20,7 +20,8 @@
         "src/toonblast/app.js",
         "src/learn/LearnScene.js",
         "src/learn/SpriteSheet.js",
-        "src/learn/Animation.js"
+        "src/learn/Animation.js",
+        "src/learn/Map.js"
 
     ]
 }

@@ -22,7 +22,17 @@ var LearnScene = cc.Scene.extend({
         // var layer = new FrameAnimationLayer();
         // this.addChild(layer);
 
-        var layer = new ArmatureLayer();
+        // var layer = new ArmatureLayer();
+        // this.addChild(layer);
+        //
+        //
+        // var layer = new ParallaxLayer();
+        // this.addChild(layer);
+        //
+        // var layer = new UnlimitedParallaxLayer();
+        // this.addChild(layer);
+
+        var layer = new PartuckeLayer();
         this.addChild(layer);
 
 

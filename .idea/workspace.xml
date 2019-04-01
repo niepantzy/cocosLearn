@@ -2,33 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d78cdb61-7819-45c9-99bc-e91318484a74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/res/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/grossini_dance_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/particle.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/particle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learn/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/bgGame.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/bgLayer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/bgWelcome.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/bgWelcome.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/coffee.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/coffee.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/eat.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/eat.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/font.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/font.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/hit.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/hurt.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/lose.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/mushroom.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/mushroom.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/particles/coffee.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/particles/eat.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/particles/mushroom.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/particles/texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/particles/wind.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/particles/wind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/texture.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/wind.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/wind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/GameConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/Scene/AbountScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/Scene/HeroGameScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/Scene/MenuScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/Sound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/element/GameBackground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/element/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/element/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/element/Obstacle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/logic/FoodManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/logic/ObstacleManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/ui/GameOverUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/ui/GameSceneUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hungryHero/ui/SoundButton.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/grossini.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/grossini.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learn/Animation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn/Animation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learn/LearnScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn/LearnScene.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publish/html5/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/game.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/HelloWorld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/SavePets_Bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/SavePets_Icon_Cube1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/SavePets_Icon_Cube2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/SavePets_Icon_Cube3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/SavePets_Icon_Cube4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/SavePets_Icon_Cube5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/SavePets_Icon_Cube6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/toonblast.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish/html5/res/toonblast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/texture.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resource.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resource.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test1.txt" beforeDir="false" />
     </list>
@@ -81,100 +112,108 @@
         <counts>
           <entry key="C++" value="1" />
           <entry key="HTML" value="4" />
-          <entry key="Image" value="3" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="25" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Image" value="5" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="86" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="138" />
-          <entry key="JavaScript" value="5715" />
+          <entry key="JSON" value="312" />
+          <entry key="JavaScript" value="16475" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="103" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
+            <state relative-caret-position="399">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resource.js">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/Scene/HeroGameScene.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="109">
+              <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn/Map.js">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/ui/SoundButton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="81" column="51" lean-forward="true" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+            <state relative-caret-position="304">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/parallax/CCParallaxNode.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.js">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/Sound.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="741">
-              <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/learn/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="152" column="14" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
+              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/grossini.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_studio_auto_api.js">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/element/Obstacle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="1888" selection-start-line="1888" selection-end-line="1888" />
+            <state relative-caret-position="1938">
+              <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/DemoPlayer.ExportJson">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/element/Item.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn/LearnScene.js">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/element/Hero.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+            <state relative-caret-position="418">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/element/GameBackground.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/Game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hungryHero/GameConstants.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -190,6 +229,9 @@
       <find>moving</find>
       <find>_finishCandyFalls</find>
       <find>_spriteFrames</find>
+      <find>heroSpeed</find>
+      <find>_shakeAnimation</find>
+      <find>endgame</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -208,14 +250,29 @@
         <option value="$PROJECT_DIR$/src/toonblast/app.js" />
         <option value="$PROJECT_DIR$/src/learn/LearnSence.js" />
         <option value="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js" />
-        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js" />
         <option value="$PROJECT_DIR$/src/learn/SpriteSheet.js" />
-        <option value="$PROJECT_DIR$/project.json" />
         <option value="$PROJECT_DIR$/src/learn/Map.js" />
         <option value="$PROJECT_DIR$/src/learn/LearnScene.js" />
-        <option value="$PROJECT_DIR$/src/resource.js" />
         <option value="$PROJECT_DIR$/src/learn/Animation.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/ui/SoundButton.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/Scene/AbountScene.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/Scene/MenuScene.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/Game.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/element/GameBackground.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/ui/GameSceneUI.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/element/Hero.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/GameConstants.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/logic/ObstacleManager.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/element/Item.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/element/Obstacle.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/Sound.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/logic/FoodManager.js" />
+        <option value="$PROJECT_DIR$/src/resource.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/ui/GameOverUI.js" />
+        <option value="$PROJECT_DIR$/src/hungryHero/Scene/HeroGameScene.js" />
+        <option value="$PROJECT_DIR$/project.json" />
       </list>
     </option>
   </component>
@@ -230,13 +287,15 @@
       <path value="$PROJECT_DIR$/frameworks/cocos2d-x/external/tinydir/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -278,18 +337,41 @@
             <path>
               <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="hungryHero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hungryHero" type="462c0819:PsiDirectoryNode" />
+              <item name="element" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hungryHero" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hungryHero" type="462c0819:PsiDirectoryNode" />
+              <item name="Scene" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cocosLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cocosLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hungryHero" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,6 +388,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gittest\cocos\cocosLearn\res\particles" />
+      <recent name="E:\gittest\cocos\cocosLearn\src\hungryHero\element" />
       <recent name="E:\gittest\cocos\cocosLearn\src" />
       <recent name="E:\test\cocos\toonblast\src\toonblast" />
       <recent name="E:\test\cocos\toonblast\res" />
@@ -340,21 +424,22 @@
       <workItem from="1553770086885" duration="27055000" />
       <workItem from="1553912925835" duration="508000" />
       <workItem from="1553914139595" duration="15448000" />
-      <workItem from="1553940047395" duration="8333000" />
+      <workItem from="1553940047395" duration="32918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51344000" />
+    <option name="totallyTimeSpent" value="75929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18756586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32942432" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -376,96 +461,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/SavePets_Bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/SavePets_Icon_Cube3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/SavePets_Icon_Cube5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/SavePets_Icon_Cube6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/SavePets_Icon_Cube1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/SavePets_Icon_Cube2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/SavePets_Icon_Cube4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEvent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3858">
-          <caret line="202" column="14" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCTouch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.cocos-project.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Storage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Constant.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/loading.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="724" selection-start-column="305" selection-end-column="724" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_3d_auto_api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_auto_api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="12" selection-start-line="14" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_experimental_video_auto_api.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_experimental_webView_auto_api.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -499,20 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2439">
-          <caret line="45" column="56" lean-forward="true" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/toonblast/Candy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -520,24 +501,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/toonblast/GameUI.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrameCache.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="351" column="20" selection-start-line="351" selection-start-column="15" selection-end-line="351" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="3451" selection-start-line="3451" selection-end-line="3451" />
         </state>
       </provider>
     </entry>
@@ -551,13 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-385">
           <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/SpriteSheet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2736">
-          <caret line="144" column="24" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -582,31 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="81" column="51" lean-forward="true" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="103" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/parallax/CCParallaxNode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
           <caret line="122" selection-start-line="122" selection-end-line="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -623,6 +562,41 @@
     <entry file="file://$PROJECT_DIR$/res/DemoPlayer.ExportJson">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="152" column="14" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="1533" selection-start-line="1533" selection-end-line="1533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="84" column="46" lean-forward="true" selection-start-line="84" selection-start-column="46" selection-end-line="84" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toonblast/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toonblast/GameUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/LearnScene.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -630,17 +604,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource.js">
+    <entry file="file://$PROJECT_DIR$/src/learn/Map.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="565">
+          <caret line="81" column="51" lean-forward="true" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/Animation.js">
+    <entry file="file://$PROJECT_DIR$/src/learn/SpriteSheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="152" column="14" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
+        <state relative-caret-position="2736">
+          <caret line="144" column="24" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constant.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/Scene/MenuScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelBMFont.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="441" column="4" selection-start-line="441" selection-start-column="4" selection-end-line="441" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/Scene/AbountScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/logic/ObstacleManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/logic/FoodManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/coffee.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/eat.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mushroom.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/ui/GameSceneUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/ui/GameOverUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/Scene/HeroGameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/ui/SoundButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/GameConstants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/Sound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/element/Obstacle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/element/Item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/element/Hero.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hungryHero/element/GameBackground.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

@@ -21,7 +21,25 @@ var res = {
     particle: "res/particle.png",
     particlePlist: "res/particle.plist",
     texture: "res/texture.png",
-
+    texturePlist: "res/texture.plist",
+    bgLayer: "res/bgLayer.jpg",
+    bgWelcome: "res/bgWelcome.jpg",
+    bgGameMp3: "res/bgGame.mp3",
+    bgGameWelcomeMp3: "res/bgWelcome.mp3",
+    coffeeMp3: "res/coffee.mp3",
+    eatMp3: "res/eat.mp3",
+    hitMp3: "res/hit.mp3",
+    hurtMp3: "res/hurt.mp3",
+    loseMp3: "res/lose.mp3",
+    mushroomMp3: "res/mushroom.mp3",
+    fnt: "res/font.fnt",
+    fntPng: "res/font.png",
+    coffeeplist:"res/particles/coffee.plist",
+    eatplist:"res/particles/eat.plist",
+    mushroomplist:"res/particles/mushroom.plist",
+    texturePng:"res/particles/texture.png",
+    windplist:"res/particles/wind.plist",
+    windpng:"res/particles/wind.png",
 
 };
 var actions = [
